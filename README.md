@@ -29,7 +29,7 @@ A simple and powerful API built with Node.js, Express, and MongoDB to manage tod
 
 1. Clone the repo
 ```bash
-git clone 
+git clone https://github.com/njourou/REST-API-To-do
 cd todo-rest-api
 ```
 
