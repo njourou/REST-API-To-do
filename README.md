@@ -29,8 +29,8 @@ A simple and powerful API built with Node.js, Express, and MongoDB to manage tod
 
 1. Clone the repo
 ```bash
-git clone 
-cd todo-rest-api
+git clone https://github.com/njourou/REST-API-To-do
+cd REST-API-To-do
 ```
 
 2. Install dependencies
